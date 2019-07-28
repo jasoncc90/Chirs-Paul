@@ -1,2 +1,2 @@
-# Chirs-Paul
+# Chris-Paul
 A NBA super star
